@@ -1,6 +1,6 @@
 class String
   define_method(:tally) do |word|
-    self.split()
+    self.delete(",").split()
     .count(word)
   end
 end
