@@ -7,13 +7,16 @@ Week 1 Code Review
 
 ## Description
 
-_{The purpose of this application is to provide a quick way for users to figure out how many times a specific word was used in a string of text.  The user merely inputs the block of and then specifies the word they want identified and hit submit.  They are then taken to a new page where their results are displayed.}_
+_{The purpose of this application is to provide a quick way for users to figure out how many times a specific word was used in a string of text.  The application is hosted online at https://aqueous-ravine-2791.herokuapp.com/
+The user merely inputs the block of and then specifies the word they want identified and hit submit.  They are then taken to a new page where their results are displayed.}_
 
 ## Setup
 
-*{User inputs a word that they want to know the number of times it appears in a sentence.}
 
-*{User inputs the sentence that the application will then check against the word and determine the number of times the given word appears in that sentence.}
+- Clone this repository to your local system
+- install Sinatra $gem install Sinatra
+- run app file $ruby app.rb
+- open localhost:4567 in preferred web browser
 
 
 ## Technologies Used
