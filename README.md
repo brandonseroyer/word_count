@@ -1,14 +1,14 @@
 # word_count
 Week 1 Code Review
 
-##### _{Word Counting Application}, {8/27/2015}_
+##### _Word Counting Application, 8/27/2015_
 
-#### By _**{Brandon Seroyer}**_
+#### By _**Brandon Seroyer**_
 
 ## Description
 
-_{The purpose of this application is to provide a quick way for users to figure out how many times a specific word was used in a string of text.  The application is hosted online at https://aqueous-ravine-2791.herokuapp.com/
-The user merely inputs the block of and then specifies the word they want identified and hit submit.  They are then taken to a new page where their results are displayed.}_
+_The purpose of this application is to provide a quick way for users to figure out how many times a specific word was used in a string of text.  The application is hosted online at https://aqueous-ravine-2791.herokuapp.com/
+The user merely inputs the block of and then specifies the word they want identified and hit submit.  They are then taken to a new page where their results are displayed._
 
 ## Setup
 
@@ -25,7 +25,7 @@ _{ruby} {sinatra} {capybara} {heroku}_
 
 ### Legal
 
-Copyright (c) 2015 **_{Brandon Seroyer}_**
+Copyright (c) 2015 **_Brandon Seroyer_**
 
 This software is licensed under the MIT license.
 
